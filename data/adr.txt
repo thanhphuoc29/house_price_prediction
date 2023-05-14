@@ -1,0 +1,285 @@
+Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.753.273	1.057.893.861
+Lê Trọng Tấn, Phường La Khê, Quận Hà Đông, Hà Nội	209.660.302	1.057.582.699
+Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội	209.624.436	1.057.684.146
+Ngô Quyền, Phường La Khê, Quận Hà Đông, Hà Nội	209.704.818	1.057.624.811
+Yên Lộ, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.537.667	1.057.325.338
+Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.567.104	1.057.936.155
+Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.643.701	1.057.673.354
+Phố Lụa, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.801.945	1.057.746.786
+Lê Trọng Tấn, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.790.672	1.057.455.337
+Lê Lợi, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.689.277	1.057.795.472
+Văn La, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.579.937	1.057.631.942
+Xa La, Phường Phúc La, Quận Hà Đông, Hà Nội	209.610.988	1.057.919.908
+Đa Sĩ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.528.073	1.057.850.022
+Hà Trì, Phường Hà Cầu, Quận Hà Đông, Hà Nội	20.965.193	1.057.842.685
+Phan Đình Giót, Phường La Khê, Quận Hà Đông, Hà Nội	209.686.922	1.057.611.004
+Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.786.876	105.771.796
+Yên Nghĩa, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.540.586	1.057.409.852
+Quang Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội	209.446.776	1.057.591.229
+Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội	209.456.141	1.057.512.671
+Quốc lộ 6, Phường Đồng Mai, Quận Hà Đông, Hà Nội	209.394.853	105.732.676
+Nguyễn Văn Lộc, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.849.911	1.057.863.219
+Hòa Bình, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.457.076	1.057.219.145
+quốc lộ 21B, Phường Đồng Mai, Quận Hà Đông, Hà Nội	209.334.432	105.757.522
+An Hòa, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Yên Phúc, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.299.636	1.057.161.192
+Ngô Thì Nhậm, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.691.116	1.057.688.504
+Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.851.923	1.057.790.333
+Ngô Gia Khảm, Phường La Khê, Quận Hà Đông, Hà Nội	209.740.409	105.775.546
+Đường 19 Tháng 5, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.757.396	10.578.937
+Văn Khê, Phường Phú La, Quận Hà Đông, Hà Nội	209.569.821	1.057.699.487
+Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.798.766	1.057.873.183
+Phúc La, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.654.323	1.057.894.045
+Ba La, Phường Phú Lãm, Quận Hà Đông, Hà Nội	20.951.491	1.057.571.501
+Tố Hữu, Phường La Khê, Quận Hà Đông, Hà Nội	209.888.291	1.057.808.433
+Nguyễn Văn Trỗi, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.825.672	1.057.841.113
+Phúc La, Phường Phúc La, Quận Hà Đông, Hà Nội	209.654.323	1.057.894.045
+Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội	209.684.049	105.786.636
+Đoàn Kết, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.283.162	1.057.219.145
+Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.804.342	1.057.880.155
+Phú Lương, Phường Phú Lãm, Quận Hà Đông, Hà Nội	20.941.652	105.759.864
+Nguyễn Trực, Phường Phú Lương, Quận Hà Đông, Hà Nội	2.093.708	1.057.673.942
+Tây Sơn, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	210.082.189	1.058.237.382
+Phố Tố Hữu, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.845.525	1.057.745.358
+Yên Bình, Phường Phúc La, Quận Hà Đông, Hà Nội	209.715.653	1.057.881.455
+Lương Ngọc Quyến, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.843.294	1.057.947.773
+Phú Lãm, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.445.348	1.057.497.878
+Ngô Quyền, Phường Quang Trung, Quận Hà Đông, Hà Nội	20.970.795	1.057.663.319
+Yên Bình, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.540.586	1.057.409.852
+Văn Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.619.569	1.057.685.912
+Tô Hiệu, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.667.346	1.057.774.576
+Trinh Lương, Phường Phú Lương, Quận Hà Đông, Hà Nội	209.363.221	105.760.058
+Chiến Thắng, Phường La Khê, Quận Hà Đông, Hà Nội	209.671.081	1.057.624.023
+Bế Văn Đàn, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.701.912	1.057.738.023
+Chiến Thắng, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.791.537	1.057.962.032
+Nguyễn Viết Xuân, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.705.419	1.057.701.103
+Lê Lợi, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.685.829	105.779.849
+Trần Đăng Ninh, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.652.675	1.057.681.278
+Ngô Thì Sĩ, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.786.876	105.771.796
+Ao Sen, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.824.402	1.057.879.358
+Bà Triệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	20.969.386	1.057.809.778
+Lương Ngọc Quyến, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	209.843.294	1.057.947.773
+Cầu Đơ, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.647.802	1.057.729.582
+Cầu Am, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.773.501	1.057.774.475
+Lương Ngọc Quyến, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.843.294	1.057.947.773
+Lê Lợi, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.689.277	1.057.795.472
+Văn Khê, Phường La Khê, Quận Hà Đông, Hà Nội	209.742.616	10.576.332
+Yên Phúc, Phường Phúc La, Quận Hà Đông, Hà Nội	209.703.553	1.057.879.244
+Yên Bình, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.715.653	1.057.881.455
+Tố Hữu, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.845.525	1.057.745.358
+Lê Hồng Phong, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.671.405	1.057.757.231
+Bùi Bằng Đoàn, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	20.970.603	1.057.809.387
+Mỗ Lao, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Ngô Thì Sĩ, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	2.097.458	1.057.769.317
+Lương Ngọc Quyến, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.843.294	1.057.947.773
+Tản Đà, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.684.377	105.778.524
+Tô Hiệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.686.701	1.057.799.716
+Văn Quán, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.796.446	1.057.923.394
+Biên Giang, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.312.147	1.057.219.145
+Văn Quán, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	209.796.446	1.057.923.394
+Lương Văn Can, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.699.557	1.057.798.664
+Phúc La, Phường La Khê, Quận Hà Đông, Hà Nội	209.654.323	1.057.894.045
+An Phú, Phường Dương Nội, Quận Hà Đông, Hà Nội	20.979.868	1.057.439.194
+Nguyễn Trãi, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.699.557	1.057.798.664
+Quang Trung, Phường Phú La, Quận Hà Đông, Hà Nội	209.595.606	1.057.615.008
+Đa Sĩ, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.636.429	1.057.776.653
+Nguyễn Trãi, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.863.264	1.057.957.238
+Bùi Bằng Đoàn, Phường Phúc La, Quận Hà Đông, Hà Nội	20.970.603	1.057.809.387
+Phùng Hưng, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.652.675	1.057.681.278
+Phố Tố Hữu, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.888.291	1.057.808.433
+Nguyễn Khuyến, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.699.557	1.057.798.664
+Lê Trọng Tấn, Phường Phú La, Quận Hà Đông, Hà Nội	209.641.152	1.057.619.568
+Lý Thường Kiệt, Phường La Khê, Quận Hà Đông, Hà Nội	2.096.532	1.057.695.044
+Phố Tố Hữu, Phường La Khê, Quận Hà Đông, Hà Nội	209.888.291	1.057.808.433
+Tố Hữu, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.888.291	1.057.808.433
+Đinh Tiên Hoàng, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.707.656	1.057.803.042
+Ba La, Phường Phúc La, Quận Hà Đông, Hà Nội	209.525.367	1.057.571.732
+Tân Triều, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.796.446	1.057.923.394
+Lê Lai, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.663.306	1.057.789.611
+Huyền Kỳ, Phường Phú Lương, Quận Hà Đông, Hà Nội	209.388.412	10.575.639
+Cầu Đơ, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.647.802	1.057.729.582
+Lê Văn Lương, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	21.005.002	1.058.040.613
+Phú Lương, Phường Phú Lương, Quận Hà Đông, Hà Nội	2.093.708	1.057.673.942
+Ngô Quyền, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.745.224	1.057.742.818
+Lê Quý Đôn, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.699.557	1.057.798.664
+Ngô Thì Nhậm, Phường Phú La, Quận Hà Đông, Hà Nội	209.691.116	1.057.688.504
+Nguyễn Thái Học, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.726.234	1.057.753.773
+Trưng Nhị, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.713.529	1.057.781.296
+Nguyễn Trãi, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.857.554	1.057.949.436
+Văn La, Phường Phú La, Quận Hà Đông, Hà Nội	209.579.937	1.057.631.942
+Phú Lãm, Phường Phú Lương, Quận Hà Đông, Hà Nội	209.426.712	1.057.541.892
+Văn Phú, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	209.619.569	1.057.685.912
+Cầu Bươu, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.614.602	1.057.996.296
+Đoàn Kết, Phường Dương Nội, Quận Hà Đông, Hà Nội	20.979.868	1.057.439.194
+An Thắng, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.295.585	1.057.107.625
+Tố Hữu, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.888.291	1.057.808.433
+Quang Trung, Phường Phú Lãm, Quận Hà Đông, Hà Nội	209.499.691	105.748.568
+Văn Khê, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.742.616	10.576.332
+Vạn Phúc, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.786.876	105.771.796
+Lê Quý Đôn, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.636.429	1.057.776.653
+Quang Trung, Phường La Khê, Quận Hà Đông, Hà Nội	209.612.241	1.057.633.418
+Lý Thường Kiệt, Phường Phú Lãm, Quận Hà Đông, Hà Nội	209.426.712	1.057.541.892
+Huỳnh Thúc Kháng, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	210.194.748	1.058.090.016
+Đa Sĩ, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.540.586	1.057.409.852
+Trương Công Định, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.738.946	1.057.764.971
+Cầu Bươu, Phường Phúc La, Quận Hà Đông, Hà Nội	209.636.251	1.057.957.229
+Phùng Hưng, Phường Phú Lương, Quận Hà Đông, Hà Nội	209.691.613	1.057.853.182
+Yết Kiêu, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.752.639	1.057.797.077
+Văn Phú, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.624.436	1.057.684.146
+Phan Huy Chú, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.748.432	1.057.757.189
+Bế Văn Đàn, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.701.912	1.057.738.023
+Lê Trọng Tấn, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.656.189	1.057.589.792
+Văn Quán, Phường Phú La, Quận Hà Đông, Hà Nội	209.560.561	1.057.659.269
+Mỗ Lao, Phường Phú La, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Hoàng Diệu, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.675.775	1.057.774.849
+Mỗ Lao, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.786.876	105.771.796
+Vạn Phúc, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.699.557	1.057.798.664
+Nguyễn Thái Học, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	210.301.401	105.836.961
+Lê Hồng Phong, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.682.401	1.057.768.843
+Ngô Quyền, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.699.557	1.057.798.664
+Tây Sơn, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.744.198	1.057.760.588
+61 Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.786.876	105.771.796
+148 Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.805.967	1.057.791.194
+8 Ngô Quyền, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.758.061	1.057.761.751
+5 Tô Hiệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.702.946	1.057.817.215
+146 Đường 19 Tháng 5, Phường Văn Quán, Quận Hà Đông, Hà Nội	20.973.596	1.057.855.218
+1 Phan Đình Giót, Phường La Khê, Quận Hà Đông, Hà Nội	209.667.702	1.057.652.906
+Tổ 12 Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.566.832	1.057.915.484
+181 Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội	2.097.674	105.783.752
+Trần Nhật Duật, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.730.327	1.057.744.496
+Ngô Thì Nhậm, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.691.116	1.057.688.504
+4 Hà Trì, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.646.049	1.057.829.326
+132 Thanh Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.828.549	1.057.782.692
+20 Ngô Quyền, Phường La Khê, Quận Hà Đông, Hà Nội	209.756.528	1.057.755.216
+100 Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, Hà Nội	20.976.176	1.057.885.562
+100 Nguyễn Văn Lộc, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.849.911	1.057.863.219
+108 Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.787.254	1.057.840.181
+23 Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.779.493	1.057.878.798
+108 Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.787.254	1.057.840.181
+Nhuệ Giang, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	210.177.844	1.057.493.516
+Yên Lộ, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.681.856	1.057.524.952
+Xa La, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.610.988	1.057.919.908
+Tô Hiến Thành, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.713.282	1.057.844.228
+Lê Quý Đôn, Phường Phúc La, Quận Hà Đông, Hà Nội	209.654.323	1.057.894.045
+Quang Trung, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.743.911	1.057.805.783
+Trần Hưng Đạo, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	210.229.634	1.058.473.777
+Đường 19 Tháng 5, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.283.162	1.057.219.145
+Tô Hiến Thành, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.713.282	1.057.844.228
+Tô Hiến Thành, Phường Phúc La, Quận Hà Đông, Hà Nội	209.713.282	1.057.844.228
+Hoàng Hoa Thám, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	210.419.911	1.058.205.621
+Phan Chu Trinh, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.734.805	105.776.628
+Văn Khê, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.742.616	10.576.332
+Mậu Lương, Phường Phúc La, Quận Hà Đông, Hà Nội	209.584.268	1.057.945.406
+Lý Thường Kiệt, Phường Phú Lương, Quận Hà Đông, Hà Nội	2.093.708	1.057.673.942
+Trần Văn Chuông, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.740.916	1.057.775.279
+Chiến Thắng, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.671.081	1.057.624.023
+Chiến Thắng, Phường Đồng Mai, Quận Hà Đông, Hà Nội	209.308.715	1.057.409.852
+Tây Sơn, Phường Quang Trung, Quận Hà Đông, Hà Nội	210.082.189	1.058.237.382
+Phan Đình Giót, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.686.922	1.057.611.004
+Phan Đình Phùng, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.732.827	1.057.773.213
+Lê Trọng Tấn, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	20.977.862	1.057.465.724
+Ba La, Phường Đồng Mai, Quận Hà Đông, Hà Nội	209.525.367	1.057.571.732
+Quang Trung, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.551.593	105.755.404
+Phùng Hưng, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.724.038	1.057.827.186
+Văn Khê, Phường Phú Lương, Quận Hà Đông, Hà Nội	209.742.616	10.576.332
+Hoàng Văn Thụ, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.711.523	105.779.009
+An Hòa, Phường Phúc La, Quận Hà Đông, Hà Nội	209.654.323	1.057.894.045
+Vạn Phúc, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.283.162	1.057.219.145
+Phan Đình Giót, Phường Phú La, Quận Hà Đông, Hà Nội	209.686.922	1.057.611.004
+61( nay là 107) Phan Chu Trinh, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.739.295	1.057.771.667
+Ao Sen, Phường Phúc La, Quận Hà Đông, Hà Nội	209.824.402	1.057.879.358
+Cầu Am, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.757.157	1.057.768.446
+An Hòa, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.796.446	1.057.923.394
+Trần Đăng Ninh, Quận Hà Đông, Hà Nội	209.808.767	1.057.836.849
+64 Bà Triệu, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	20.967.937	1.057.824.228
+Ngô Gia Tự, Phường Phú La, Quận Hà Đông, Hà Nội	20.969.856	1.057.673.202
+Tô Hiệu, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.655.433	105.775.875
+Từ Liêm Nguyễn Khuyến, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.753.273	1.057.893.861
+Từ Liêm Lê Trọng Tấn, Phường Phú La, Quận Hà Đông, Hà Nội	209.641.152	1.057.619.568
+Hà Trì, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.635.059	1.057.767.523
+Phú Lãm, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.426.712	1.057.541.892
+Lý Thường Kiệt, Phường Mộ Lao, Quận Hà Đông, Hà Nội	210.237.345	1.058.492.025
+Huyền Kỳ, Phường Phú La, Quận Hà Đông, Hà Nội	209.560.561	1.057.659.269
+An Hòa, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.652.675	1.057.681.278
+Yên Nghĩa, Phường Dương Nội, Quận Hà Đông, Hà Nội	20.979.868	1.057.439.194
+Đa Sĩ, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.796.446	1.057.923.394
+Thanh Bình, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.807.436	1.057.788.182
+Chu Văn An, Xã Cự Khê, Quận Hà Đông, Hà Nội	20.955.835	1.057.563.658
+Tân Xa, Phường Phúc La, Quận Hà Đông, Hà Nội	209.643.349	1.057.888.364
+Đại An, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.796.446	1.057.923.394
+Hoàng Hoa Thám, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.715.331	1.057.773.337
+Thanh Bình, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.283.162	1.057.219.145
+Yên Bình, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.715.653	1.057.881.455
+Nhuệ Giang, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.853.911	1.057.784.907
+Ngô Thì Nhậm, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.691.116	1.057.688.504
+Mỗ Lao, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Huỳnh Thúc Kháng, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	20.973.164	1.057.767.003
+số 6 Thanh Lãm, Phường Phú Lãm, Quận Hà Đông, Hà Nội	209.448.277	1.057.565.135
+Nguyễn Công Trứ, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.717.083	1.057.845.056
+Yết Kiêu, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.752.639	1.057.797.077
+Ngô Gia Khảm, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.740.409	105.775.546
+Nguyễn Trãi, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.863.264	1.057.957.238
+Lê Lai, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.661.048	1.057.787.038
+Trần Phú, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	209.798.766	1.057.873.183
+Quang Trung, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	209.652.675	1.057.681.278
+Phùng Hưng, Phường Phú La, Quận Hà Đông, Hà Nội	209.684.049	105.786.636
+Đa Sĩ, Quận Hà Đông, Hà Nội	20.955.835	1.057.563.658
+Hoàng Hoa Thám, Quận Hà Đông, Hà Nội	20.955.835	1.057.563.658
+Nguyễn Văn Trác, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.606.132	1.057.443.873
+Thanh Bình, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.851.923	1.057.790.333
+Yên Phúc, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.703.553	1.057.879.244
+Cầu Bươu, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.636.251	1.057.957.229
+Bà Triệu, Phường Phúc La, Quận Hà Đông, Hà Nội	20.969.386	1.057.809.778
+Đường 19 Tháng 5, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	209.757.396	10.578.937
+Yên Phúc, Phường Phú La, Quận Hà Đông, Hà Nội	209.703.553	1.057.879.244
+Thanh Lãm, Phường Phú Lương, Quận Hà Đông, Hà Nội	2.093.708	1.057.673.942
+Lê Hồng Phong, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.671.405	1.057.757.231
+Đa Sĩ, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.786.876	105.771.796
+Trần Phú, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.798.766	1.057.873.183
+Chu Văn An, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.747.217	1.057.776.421
+An Hòa, Phường La Khê, Quận Hà Đông, Hà Nội	209.724.114	1.057.615.252
+Phú Lãm, Phường La Khê, Quận Hà Đông, Hà Nội	209.724.114	1.057.615.252
+Hoàng Văn Thụ, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.711.523	105.779.009
+Lê Quý Đôn, Phường La Khê, Quận Hà Đông, Hà Nội	209.724.114	1.057.615.252
+Hoàng Hoa Thám, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.528.073	1.057.850.022
+Ngô Thì Sĩ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.528.073	1.057.850.022
+Lương Văn Can, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.528.073	1.057.850.022
+Văn Quán, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Ngô Thì Sĩ, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Nguyễn Thượng Hiền, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.735.585	105.775.549
+Ngô Gia Tự, Phường Phúc La, Quận Hà Đông, Hà Nội	20.969.856	1.057.673.202
+Xa La, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.610.988	1.057.919.908
+Nguyễn Viết Xuân, Phường Biên Giang, Quận Hà Đông, Hà Nội	209.703.917	1.057.697.163
+Bế Văn Đàn, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.701.912	1.057.738.023
+Nguyễn Văn Lộc, Phường Văn Mỗ, Quận Hà Đông, Hà Nội	20.979.766	1.057.796.791
+Cao Thắng, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	2.097.458	1.057.769.317
+Văn Phú, Phường Đồng Mai, Quận Hà Đông, Hà Nội	209.619.569	1.057.685.912
+Mỗ Lao, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Lương Ngọc Quyến, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.843.294	1.057.947.773
+Quốc Lộ 6A, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.541.504	1.057.540.882
+Hòa Bình, Phường Dương Nội, Quận Hà Đông, Hà Nội	20.979.868	1.057.439.194
+Đoàn Kết, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.540.586	1.057.409.852
+Trương Công Định, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.738.946	1.057.764.971
+Lê Quý Đôn, Phường Dương Nội, Quận Hà Đông, Hà Nội	20.979.868	1.057.439.194
+quốc lộ 21B, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.334.432	105.757.522
+Đoàn Kết, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.528.073	1.057.850.022
+Tiểu Công Nghệ, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.502.034	1.057.910.665
+Văn La, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.625.236	1.057.683.842
+Yên Lộ, Phường Văn Quán, Quận Hà Đông, Hà Nội	209.796.446	1.057.923.394
+Nguyễn Văn Lộc, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.849.911	1.057.863.219
+Nguyễn Viết Xuân, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.703.917	1.057.697.163
+Lê Trọng Tấn, Phường Mộ Lao, Quận Hà Đông, Hà Nội	20.977.862	1.057.465.724
+105 Chu Văn An, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	209.751.541	1.057.770.364
+Tản Đà, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội	209.684.377	105.778.524
+Hòa Bình, Phường Mộ Lao, Quận Hà Đông, Hà Nội	209.833.749	1.057.835.348
+Vạn Phúc, Phường Yết Kiêu, Quận Hà Đông, Hà Nội	2.097.458	1.057.769.317
+Nguyễn Thái Học, Phường Hà Cầu, Quận Hà Đông, Hà Nội	209.726.234	1.057.753.773
+Nguyễn Thượng Hiền, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.735.585	105.775.549
+Ngô Thì Nhậm Phan Đình Giót, Phường La Khê, Quận Hà Đông, Hà Nội	209.803.591	1.057.604.059
+Yết Kiêu, Phường Kiến Hưng, Quận Hà Đông, Hà Nội	209.752.639	1.057.797.077
+Bế Văn Đàn, Phường Vạn Phúc, Quận Hà Đông, Hà Nội	209.701.912	1.057.738.023
+Trần Đăng Ninh, Phường La Khê, Quận Hà Đông, Hà Nội	210.387.557	1.057.922.448
+Phố Xốm, Phường Dương Nội, Quận Hà Đông, Hà Nội	209.438.041	105.756.738
+Nguyễn Trãi, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội	209.863.264	1.057.957.238
+Văn Phú, Phường Phú Lương, Quận Hà Đông, Hà Nội	20.956.019	1.057.639.549
+Ba La, Phường Quang Trung, Quận Hà Đông, Hà Nội	209.557.503	1.057.574.053
