@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Number Recognition</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/demo.css') }}">
+  </head>
+  <body>
+    <div class="container-demo">
+        <h1>Number Recognition using softmax</h1>
+        <form method="POST">
+          <input type="file" name="image" onchange="previewImage(this)">
+          <img id="image-preview" src="#" alt="Preview Image" style="display:none;">
+          <input type="submit" value="Predict" class="btn-predict">
+        </form>
+        <div id="prediction"></div>
+        
+      </div>
+    <script>
+        function previewImage(input) {
+            console.log('ok');
+            var preview = document.getElementById('image-preview');
+            if (input.files && input.files[0]) {
+              var reader = new FileReader();
+              reader.onload = function(e) {
+                preview.src = e.target.result;
+                preview.style.display = 'block';
+              }
+              reader.readAsDataURL(input.files[0]);
+            }
+        }
+      const form = document.querySelector('form');
+      const fileInput = document.querySelector('input[type="file"]');
+      form.addEventListener('submit', async (event) => {
+        event.preventDefault();
+        const formData = new FormData();
+        formData.append('image',fileInput.files[0])
+        const response = await fetch('http://127.0.0.1:5000/predict', {
+          method: 'POST',
+          body: formData
+        });
+        const data = await response.json();
+        document.querySelector('#prediction').innerHTML = `Dự đoán đây là số: ${data.prediction}`;
+      });
+    </script>
+  </body>
+</html>
